@@ -19,16 +19,6 @@ Image Generation with Stable Diffusion
   
 </div>
 
-
-
-
-
-Launch Button: Click the "Launch" button to initiate the image generation process.
-
-With "Image Generation with Stable Diffusion," you can explore the potential of generative algorithms to create diverse and imaginative visual content.
-
-
-
 #### Welcome to our new mini-application, "Image Generation with Stable Diffusion" designed for creating images using the powerful Stable Diffusion algorithm. With this tool, you can easily generate images based on your specified parameters, expanding the possibilities of your creativity.
 
 ##### Key Features:

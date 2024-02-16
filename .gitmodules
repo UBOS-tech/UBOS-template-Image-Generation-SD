@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Image-Generation-SD-nr"]
+	path = UBOS-template-Image-Generation-SD-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Image-Generation-SD-nr.git
+	branch = master
+[submodule "UBOS-template-Image-Generation-SD-ui"]
+	path = UBOS-template-Image-Generation-SD-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Image-Generation-SD-ui.git
+	branch = main

@@ -15,7 +15,7 @@ Image Generation with Stable Diffusion
 
 <div align="center">
 
-  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/)
+  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/?templateId=65d27f0e06904e0011b58339)
   
 </div>
 
